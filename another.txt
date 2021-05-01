@@ -2,4 +2,7 @@ created another file for editing
 
 Making some changes from "myFirtsbranch" branch
 
+
 Hello, added some changes from main branch, let's test pull now
+
+Some changes from "new branch", to test pull
